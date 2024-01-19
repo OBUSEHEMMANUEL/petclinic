@@ -11,7 +11,7 @@
   - Add new table vet_service (fields: id, vet_id, service_name, service_price)
   - Add new table vet_orders (fields: id, pet_id, vet_id, vet_service_id, payment_method, amount, tax, total, status ("new", "completed"))
   - Update the navigation for owners to: Home, Veternarian, logout, My pets
-  - Update the navigation for owners to: Home, Owner, logout, Orders, My Services
+  - Update the navigation for vets to: Home, Owner, logout, Orders, My Services
   - Add Login page for owners
   - Add Login page for vets
   - Add pagination to all table pages
